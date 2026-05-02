@@ -35,10 +35,10 @@
 
 ```bash
 # Mac / Linux
-git clone https://github.com/<your-username>/KillBug ~/.claude/skills/killbug
+git clone https://github.com/your2025-hub/KillBug ~/.claude/skills/killbug
 
 # Windows (PowerShell)
-git clone https://github.com/<your-username>/KillBug "$env:USERPROFILE\.claude\skills\killbug"
+git clone https://github.com/your2025-hub/KillBug "$env:USERPROFILE\.claude\skills\killbug"
 ```
 
 > 注：仓库名 `KillBug` 大小写不影响 GitHub 访问;但**本地目标路径必须小写** `killbug`,与 SKILL.md 里 `name: killbug` 对齐。
